@@ -1,0 +1,12 @@
+#if TARGET_MT6739
+
+config SYS_BOARD
+        default "lge"
+
+config SYS_VENDOR
+        default "lge"
+
+config SYS_CONFIG_NAME
+        default "lge"
+
+#endif      
